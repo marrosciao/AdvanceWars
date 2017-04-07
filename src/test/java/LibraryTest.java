@@ -1,4 +1,6 @@
 import org.junit.Test;
+import pl.advancewars.Library;
+
 import static org.junit.Assert.*;
 
 /*
