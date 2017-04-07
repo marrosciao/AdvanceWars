@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdvanceWars.iml" filepath="$PROJECT_DIR$/.idea/modules/AdvanceWars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdvanceWars_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AdvanceWars_main.iml" group="AdvanceWars" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdvanceWars_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AdvanceWars_test.iml" group="AdvanceWars" />
+    </modules>
+  </component>
+</project>

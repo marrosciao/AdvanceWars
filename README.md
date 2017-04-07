@@ -7,5 +7,7 @@ This is a Clone of a popular Game Boy Advance game
 - Store data model and view in separate modules
 - Introduce successful git branching model
 - Deliver prototype first:
--- Small map, One colours, units withoud glitch etc.
+
+## Prototype
+- Small map, simple colours, units without glitch etc.
 
