@@ -5,5 +5,8 @@ package pl.advancewars;
  * Created on 07.04.17.
  */
 public class Main {
-    System.out.println("It's alive!");
+
+    public static void main(String... args){
+        System.out.println("It's alive!");
+    }
 }
