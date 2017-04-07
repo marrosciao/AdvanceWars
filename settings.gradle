@@ -17,3 +17,4 @@ include 'services:webservice'
 */
 
 rootProject.name = 'AdvanceWars'
+project.ext.lwjglVersion = "3.1.1"
