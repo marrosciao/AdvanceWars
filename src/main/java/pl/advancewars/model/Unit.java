@@ -7,4 +7,6 @@ package pl.advancewars.model;
 public interface Unit {
 
     short getAttackRange();
+
+    short getMoveRange();
 }

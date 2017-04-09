@@ -10,4 +10,7 @@ public class Infantry implements Unit {
     public short getAttackRange() {
         return 0;
     }
+
+    @Override
+    public short getMoveRange() { return 0; }
 }
